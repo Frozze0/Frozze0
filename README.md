@@ -1,4 +1,4 @@
-I like prompt engineering.
+I like vibe coding.
 
 <!--
 **Frozze0/Frozze0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
