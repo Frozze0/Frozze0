@@ -1,4 +1,4 @@
-## Hi there 👋
+## I like prompt engineering.
 
 <!--
 **Frozze0/Frozze0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
